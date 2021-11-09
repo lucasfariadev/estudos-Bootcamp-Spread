@@ -1,3 +1,5 @@
-# Repositório para Desafio de Projeto para estudos da Dio sobre Git/GitHub
+# Repositório de estudos do bootcamp Spread na Dio
 
-Repositório criado para fazer o desafio
+## Através desse bootcamp irei atualizar conhecimentos prévios e adquirir novos
+
+Já utilizando como base de conhecimento, como primeiro desafio proposto, estou utilizando esse repositório para organização dos estudos.
