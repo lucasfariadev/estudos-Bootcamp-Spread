@@ -1,4 +1,4 @@
-package com.company;
+package com.lurf;
 import java.util.Locale;
 import java.util.Scanner;
 

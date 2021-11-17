@@ -1,4 +1,4 @@
-package com.company;
+package com.lurf;
 import java.io.IOException;
 import java.util.Scanner;
 

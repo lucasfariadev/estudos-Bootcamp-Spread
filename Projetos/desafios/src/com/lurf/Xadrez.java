@@ -1,4 +1,4 @@
-package com.company;
+package com.lurf;
 import java.util.Scanner;
 
 public class Xadrez {
